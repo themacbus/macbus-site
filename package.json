@@ -27,11 +27,3 @@
     ]
   }
 }
-git init
-git add .
-git commit -m "Add React app"
-git branch -M main
-git remote add origin https://github.com/yourusername/macbus-site.git
-git push -f -u origin main
-
-
